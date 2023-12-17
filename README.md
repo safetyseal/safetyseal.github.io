@@ -5,43 +5,54 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Website Title</title>
-    <!-- You can link to your CSS files or include any other necessary meta tags here -->
+    <title>Welcome To Tapped In Worldwide!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em;
+        }
+
+        main {
+            text-align: center;
+            padding: 2em;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
 </head>
 <body>
 
     <header>
-        <h1>Welcome to Your Website</h1>
-        <!-- Add any header content here -->
+        <h1>Tapped In Worldwide</h1>
+        <p>Tagline or a brief description of your product/service.</p>
     </header>
 
-    <nav>
-        <!-- Add your navigation menu here -->
-        <ul>
-            <li><a href="#home">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
-    </nav>
-
-    <section id="home">
-        <h2>Home Section</h2>
-        <!-- Add your home section content here -->
-    </section>
-
-    <section id="about">
-        <h2>About Section</h2>
-        <!-- Add your about section content here -->
-    </section>
-
-    <section id="contact">
-        <h2>Contact Section</h2>
-        <!-- Add your contact section content here -->
-    </section>
+    <main>
+        <h2>Welcome to Our Website!</h2>
+        <p>Discover amazing features and benefits of our product/service.</p>
+        <p><a href="#cta" style="text-decoration: none; background-color: #007BFF; color: white; padding: 10px 20px; border-radius: 5px;">Get Started</a></p>
+    </main>
 
     <footer>
-        <!-- Add your footer content here -->
-        <p>&copy; 2023 Your Website</p>
+        <p>&copy; 2023 Your Company. All rights reserved.</p>
     </footer>
 
 </body>
