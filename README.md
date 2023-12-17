@@ -42,12 +42,12 @@
 
     <header>
         <h1>Tapped In Worldwide</h1>
-        <p>Tagline or a brief description of your product/service.</p>
+        <p>Follow Us On Instagram ! https://www.instagram.com/tappedinworldwide/</p>
     </header>
 
     <main>
         <h2>Welcome to Our Website!</h2>
-        <p>Discover amazing features and benefits of our product/service.</p>
+        <p>Coming Soon! Stay Connected On Instagram! @tappedinworldwide</p>
         <p><a href="#cta" style="text-decoration: none; background-color: #007BFF; color: white; padding: 10px 20px; border-radius: 5px;">Get Started</a></p>
     </main>
 
