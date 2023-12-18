@@ -86,9 +86,9 @@
     </header>
 
     <div class="cta-section" id="cta">
-        <h2>Coming Soon !</h2>
-        <p>Explore our features and take your journey to the next level.</p>
-        <a href="#signup" class="cta-button">Get Started</a>
+        <h2>Coming Soon Stay Up To Date On Instagram !</h2>
+        <p>@tappedinworldwide</p>
+        <a href="#signup" class="cta-button">Don't Miss Out!</a>
     </div>
 
     <footer>
