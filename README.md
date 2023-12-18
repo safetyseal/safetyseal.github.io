@@ -1,5 +1,4 @@
-# TAPPED IN 
-![Tapped In Worldwide2](https://github.com/safetyseal/safetyseal.github.io/assets/154044168/2c065c0d-c5d1-4b48-a83c-3fe675d08f57)
+
 @tappedinworldwide
 <html lang="en">
 <head>
@@ -86,7 +85,7 @@
     </header>
 
     <div class="cta-section" id="cta">
-        <h2>Coming Soon!</h2>
+        <h2>Coming Soon !</h2>
         <p>Explore our features and take your journey to the next level.</p>
         <a href="#signup" class="cta-button">Get Started</a>
     </div>
