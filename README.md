@@ -88,7 +88,10 @@
     <div class="cta-section" id="cta">
         <h2>Coming Soon Stay Up To Date On Instagram !</h2>
         <p><a href="https://www.instagram.com/tappedinworldwide" target="_blank">@tappedinworldwide</a></p>
-        <a href="#signup" class="cta-button">Get Started</a>
+        <a href="https://www.instagram.com/tappedinworldwide" target="_blank" rel="noopener noreferrer">Visit us on Instagram</a>
+        <br>
+        <a href="https://www.instagram.com/tappedinworldwide" target="_blank" rel="noopener noreferrer" class="cta-button">Get Started on Instagram</a>
+        <!-- Updated the href attribute to the Instagram link -->
     </div>
 
     <footer>
