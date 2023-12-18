@@ -1,6 +1,6 @@
 # TAPPED IN 
 ![Tapped In Worldwide2](https://github.com/safetyseal/safetyseal.github.io/assets/154044168/2c065c0d-c5d1-4b48-a83c-3fe675d08f57)
-<!DOCTYPE html>
+@tappedinworldwide
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -81,18 +81,18 @@
 <body>
 
     <header>
-        <h1>Welcome to <span>Your Brand</span></h1>
-        <p>A creative and innovative solution for your needs</p>
+        <h1>Tapped In <span>Worldwide</span></h1>
+        <p>Creative and Innovative Solution For Your Needs!</p>
     </header>
 
     <div class="cta-section" id="cta">
-        <h2>Revolutionize Your Experience</h2>
+        <h2>Coming Soon!</h2>
         <p>Explore our features and take your journey to the next level.</p>
         <a href="#signup" class="cta-button">Get Started</a>
     </div>
 
     <footer>
-        <p>&copy; 2023 Your Brand. All rights reserved.</p>
+        <p>&copy; 2023 Tapped In Worldwide LLC. All rights reserved.</p>
     </footer>
 
 </body>
