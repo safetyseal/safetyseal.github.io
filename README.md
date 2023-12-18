@@ -18,7 +18,7 @@
         }
 
         header {
-            background-color: #ffd700; /* gold */
+            background-color: #c39d52; /* gold */
             color: #fff;
             text-align: center;
             padding: 2em;
@@ -66,7 +66,7 @@
         }
 
         footer {
-            background-color: #ffd700; /* gold */
+            background-color: #744d0d; /* gold */
             color: #fff;
             text-align: center;
             padding: 1em 0;
